@@ -29,7 +29,7 @@ A feature-rich Telegram bot built with **Node.js**, **MongoDB**, and **node-tele
 
 ### 1. Clone the Repository
 ```bash
-git https://github.com/Fahad2122/Dootly.gitt
+git https://github.com/Fahad2122/Dootly.git
 cd Dootly
 ```
 
